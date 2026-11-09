@@ -1,0 +1,6 @@
+{
+  "name": "Cumulative Marginalia",
+  "description": "An active reading and progressive condensation platform with paragraph coaching and Feynman chapter recap evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
