@@ -1,4 +1,4 @@
-# 🧠 Cumulative Marginalia: AI Active Reading & Surprise Recall
+# 🧠 AI Active Reading & Surprise Recall
 
 > Read any book or paper with active compression, Feynman recaps, and surprise cold-recall quizzes to lock ideas into long-term memory.
 
